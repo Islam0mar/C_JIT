@@ -2,7 +2,7 @@
 
 ![picture](showcase.gif)
 
-For C++ GUI/CLI/liceince version or license see [rcrl](https://github.com/Islam0mar/rcrl)
+For C++ GUI/CLI/license version or license see [rcrl](https://github.com/Islam0mar/rcrl)
 
 It uses the following special keywords:
 
