@@ -72,7 +72,7 @@ int test2() {
 - [ ] add timeout for compilation
 - [ ] fix parser int x = 0!!
 - [x] add an option to add link flags
-~~ - [x] add option to use [TCC](https://github.com/TinyCC/TinyCC)~~
+- [x] ~~add option to use [TCC](https://github.com/TinyCC/TinyCC)/[zapcc](https://github.com/yrnkrn/zapcc)~~, doesn't compile all libs
 
 ## Copyright
 
